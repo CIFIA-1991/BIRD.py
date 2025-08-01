@@ -1,17 +1,10 @@
-# 🎈 Blank app template
+#
+鳥.py(brid.py)
 
-A simple Streamlit app template for you to modify!
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+##
+一款用中文字製作的遊戲
+###
+要盡量讓鳥吃到果實，沒有結束時間
+全部使用tkinter開發  
+字體有使用:教育部隸書、教育部正楷體  
+[字體包下載地址](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436)
